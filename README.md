@@ -1,1 +1,1 @@
-SALUT
+shell-permissions
