@@ -1,0 +1,2 @@
+#!/bin/bash
+tail _l iacta >> iacta
